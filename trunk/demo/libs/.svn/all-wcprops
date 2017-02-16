@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/4/trunk/demo/libs
+END
+wsc-17_0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/trunk/demo/libs/wsc-17_0.jar
+END
+mysql-connector-java-5.1.12-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/demo/libs/mysql-connector-java-5.1.12-bin.jar
+END
+partner-bulk-loader.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/demo/libs/partner-bulk-loader.jar
+END
+opencsv-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/demo/libs/opencsv-2.1.jar
+END
